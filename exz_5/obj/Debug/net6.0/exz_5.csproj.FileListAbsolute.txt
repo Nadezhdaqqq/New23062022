@@ -1,0 +1,15 @@
+C:\Users\79181\Desktop\Exz\exz_5\bin\Debug\net6.0\exz_5.exe
+C:\Users\79181\Desktop\Exz\exz_5\bin\Debug\net6.0\exz_5.deps.json
+C:\Users\79181\Desktop\Exz\exz_5\bin\Debug\net6.0\exz_5.runtimeconfig.json
+C:\Users\79181\Desktop\Exz\exz_5\bin\Debug\net6.0\exz_5.dll
+C:\Users\79181\Desktop\Exz\exz_5\bin\Debug\net6.0\exz_5.pdb
+C:\Users\79181\Desktop\Exz\exz_5\obj\Debug\net6.0\exz_5.csproj.AssemblyReference.cache
+C:\Users\79181\Desktop\Exz\exz_5\obj\Debug\net6.0\exz_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79181\Desktop\Exz\exz_5\obj\Debug\net6.0\exz_5.AssemblyInfoInputs.cache
+C:\Users\79181\Desktop\Exz\exz_5\obj\Debug\net6.0\exz_5.AssemblyInfo.cs
+C:\Users\79181\Desktop\Exz\exz_5\obj\Debug\net6.0\exz_5.csproj.CoreCompileInputs.cache
+C:\Users\79181\Desktop\Exz\exz_5\obj\Debug\net6.0\exz_5.dll
+C:\Users\79181\Desktop\Exz\exz_5\obj\Debug\net6.0\refint\exz_5.dll
+C:\Users\79181\Desktop\Exz\exz_5\obj\Debug\net6.0\exz_5.pdb
+C:\Users\79181\Desktop\Exz\exz_5\obj\Debug\net6.0\exz_5.genruntimeconfig.cache
+C:\Users\79181\Desktop\Exz\exz_5\obj\Debug\net6.0\ref\exz_5.dll
